@@ -1,5 +1,5 @@
 - 👋 olá,meu nome é @nathduartt
-- 👀 meu email de contato é @nathiely.duarte@escola.pr.gov.br
+- 👀 meu email de contato é nathiely.duarte@escola.pr.gov.br
 - 🌱 eu estou interessado em aprender a programar novas linguagens
 - 💞️ eu estou aprendendo a programar recentemente a linguagem JavaScript e Scrath.
 - 
